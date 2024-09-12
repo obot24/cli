@@ -52,7 +52,7 @@
     "pretty-format": "^26.6.2",
     "prompts": "^2.4.0",
     "semver": "^6.3.0",
-    "serve-static": "^1.13.1",
+    "serve-static": "^1.16.1",
     "strip-ansi": "^5.2.0",
     "sudo-prompt": "^9.0.0",
     "wcwidth": "^1.0.1"
